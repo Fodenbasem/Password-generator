@@ -35,7 +35,7 @@ g++ -o password_generator password_generator.cpp
 2. Run
 ./password_generator
 
-/--------------------------------------------------------------------------------------\
+/**********************************************************************************\
 
 
 3. Follow prompts
@@ -46,7 +46,10 @@ g++ -o password_generator password_generator.cpp
 * For custom passwords, select character types and length.
 
 * Receive a strong and random password instantly.
-######Ex:-
+
+
+
+Ex:-
 Fady, welcome to the Password Generator!
 
 Please select what you need:
